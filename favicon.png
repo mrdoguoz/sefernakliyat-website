@@ -1,0 +1,19 @@
+# Favicon PNG Description
+# This is a text description of the favicon.png file
+# The actual PNG file should be created from the SVG favicon.svg
+
+# Favicon Specifications:
+# - Size: 32x32 pixels
+# - Format: PNG with transparency
+# - Colors: Blue theme matching the website
+# - Design: Simple truck icon
+
+# To create the actual PNG file:
+# 1. Open favicon.svg in a browser or image editor
+# 2. Export as PNG at 32x32 pixels
+# 3. Save as favicon.png in the project root
+
+# Alternative: Use online SVG to PNG converters
+# - Convertio.co
+# - CloudConvert.com
+# - Or use command line tools like ImageMagick
